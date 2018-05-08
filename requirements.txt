@@ -1,0 +1,4 @@
+git+https://github.com/openml/openml-python.git@partial_setup
+matplotlib
+numpy
+scikit-learn
